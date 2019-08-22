@@ -1,0 +1,11 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"Falabella\\" : "src/",
+			"Tests\\" : "tests/"
+		}
+	},
+	"require" : {
+		"phpunit/phpunit" : "^6.2"
+	}
+}
