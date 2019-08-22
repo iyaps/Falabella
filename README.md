@@ -23,16 +23,22 @@ operators or `else`.
 
 * Feel free to apply your SOLID knowledge
 
-Environment
+# Environment
 
-php-cli/XAMPP in Windows 10
-PHP 7.2
-Download or clone the repository
-Execute the composer command in project root:
+* php-cli/XAMPP in Windows 10
+* PHP 7.2
+
+# Download or clone the repository
+
+* Execute the composer command in project root:
+
     composer install
-Run challenge php script in project root or point the URL to the root.
+
+* Run challenge php script in project root or point the URL to the root.
     php index.php
-Unit test
+
+# Unit test
+
 To run the PHPUnit tests execute the follow command in Terminal from project root:
 
     cd vendor/bin
