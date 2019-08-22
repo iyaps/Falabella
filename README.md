@@ -1,5 +1,5 @@
 # Falabella_assignment
-Write a program that prints all the numbers from 1 to 100. However, for
+Write a program that prints all the numbers from 1 to 100. However, for 
 
 multiples of 3, instead of the number, print "Linio". For multiples of 5 print
 
@@ -34,7 +34,7 @@ operators or `else`.
 
     composer install
 
-* Run challenge php script in project root or point the URL to the root.
+* Run index.php script in project root (CLI) or point the URL to the root.
     php index.php
 
 # Unit test
